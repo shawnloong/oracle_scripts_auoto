@@ -1,5 +1,5 @@
 # oracle_scripts_auoto
-##创建日志文件
+## 创建日志文件
 ```
 touch /tmp/oracle_service.log
 chown -R oracle:oinstall /tmp/oracle_service.log
